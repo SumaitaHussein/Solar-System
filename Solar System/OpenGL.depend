@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1564490699 source:\\10.100.100.16\student-submission\graphics lab a\3d move\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1392007564 \\10.100.100.16\student-submission\graphics lab a\3d move\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1565971806 source:c:\users\sam_b\desktop\3d move\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1392007564 c:\users\sam_b\desktop\3d move\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1566924072 source:c:\users\sam_b\desktop\011 133 089 ass1\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1392007564 c:\users\sam_b\desktop\011 133 089 ass1\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1566983749 source:c:\users\sam_b\desktop\011 133 089 ass1 - copy\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1392007564 c:\users\sam_b\desktop\011 133 089 ass1 - copy\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
